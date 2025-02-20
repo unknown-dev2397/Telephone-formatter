@@ -1,19 +1,20 @@
-# Telephone-formatter
+# 📞 Telephone Formatter
 
-# 📞 Input Formatter
+# 🌞 Input Formatter
 
 A simple JavaScript input formatter that formats user input as a phone number in real-time.
 
 ## 🚀 Features
 
-- Formats input to `+(123) - 4567890` style automatically.
+- Formats input to `+1 (123) 456-7890` style automatically.
 - Removes non-numeric characters.
 - Works dynamically as the user types.
 
 ## 🌐 Online Demo
 
-🔗 **[Live Demo] ** <a target="_blank"  href=  "https://telephone-formattter-project.netlify.app/" />Hello
+🔗 **[Demo](https://telephone-formattter-project.netlify.app/)**  
+<a href="https://telephone-formattter-project.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
 
-## 📜 License
+## 🌜 License
 
 This project is licensed under the MIT License.
