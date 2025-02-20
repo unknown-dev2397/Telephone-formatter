@@ -12,7 +12,7 @@ A simple JavaScript input formatter that formats user input as a phone number in
 
 ## 🌐 Online Demo
 
-🔗 **[Demo](https://telephone-formattter-project.netlify.app/)**  
+🔗
 <a href="https://telephone-formattter-project.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
 
 ## 🌜 License
